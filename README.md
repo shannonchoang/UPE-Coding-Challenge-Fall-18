@@ -1,6 +1,8 @@
 # UPE-Coding-Challenge
 Worked on with Ellen Mei fellow inductee and friend :) 
 
+For potential UPE inductees in Fall2019 to reference if their challenge is similar 
+
 Coding challenge for UCLA UPE Induction in Fall 2018. https://gist.github.com/austinguo550/381d5e30d825b90900ef60fa39a806f4
 
 To build and run file: 

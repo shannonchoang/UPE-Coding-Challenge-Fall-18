@@ -1,4 +1,6 @@
 # UPE-Coding-Challenge
+Worked on with Ellen Mei fellow inductee and friend :) 
+
 Coding challenge for UCLA UPE Induction in Fall 2018. https://gist.github.com/austinguo550/381d5e30d825b90900ef60fa39a806f4
 
 To build and run file: 
@@ -13,4 +15,3 @@ Problems with this current version of code:
 
 Sometimes throws NullPointerException when creating the maze board. Sometimes runs into an infinite loop instead of finishing the game. In general, while the code can solve mazes, the code cannot actually finish the game, although in many cases it comes very close.
 
-Worked on with Ellen Mei

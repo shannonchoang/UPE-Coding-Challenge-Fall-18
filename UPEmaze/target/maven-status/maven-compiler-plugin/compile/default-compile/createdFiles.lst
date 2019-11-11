@@ -1,0 +1,6 @@
+com\maze\entity\Action.class
+com\maze\entity\Token.class
+com\maze\entity\ActionResult.class
+com\maze\entity\StudentID.class
+com\maze\entity\Board.class
+com\maze\Maze.class
